@@ -7,9 +7,9 @@
 
 ## description of the design 
 
-![Podcast Desktop Version](https://github.com/jgambox/jgambox.github.io/blob/master/review/landing-podcast-landing-podcast_desktop.png)
+![Podcast Desktop Version](https://github.com/jgambox/jgambox.github.io/blob/master/Figma_Design/landing-podcast-landing-podcast_desktop.png)
 
-![Podcast Mobile Version](https://github.com/jgambox/jgambox.github.io/blob/master/review/landing-podcast-landing-podcast_mobile.png)
+![Podcast Mobile Version](https://github.com/jgambox/jgambox.github.io/blob/master/Figma_Design/landing-podcast-landing-podcast_mobile.png)
 
-![Podcast UI KIT Version](https://github.com/jgambox/jgambox.github.io/blob/master/review/landing-podcast-ui-kit.png)
+![Podcast UI KIT Version](https://github.com/jgambox/jgambox.github.io/blob/master/Figma_Design/landing-podcast-ui-kit.png)
 
